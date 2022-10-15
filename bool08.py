@@ -7,8 +7,8 @@ def main(a):
         bool
     """
     # Write your code here
-    return a == int(a)
-print (main(-5.36))
+    return a >=int(a)
+print (main(-5))
 
 
     
