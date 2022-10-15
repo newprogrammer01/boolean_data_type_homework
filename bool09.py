@@ -6,9 +6,10 @@ def main(a):
         bool
     """
     # Write your code here
-    a=True
+    return a>=0
+    print(main(3))
 
-    return a
+
 
 
     
