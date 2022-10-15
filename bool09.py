@@ -1,7 +1,9 @@
-def main():
+def main(a):
     return a>0
-a=-5
-print(a>0)
+
+print(main(3))
+
+
 
 
 
