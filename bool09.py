@@ -1,5 +1,6 @@
-
-a=9
+def main():
+    return a>0
+a=-5
 print(a>0)
 
 
