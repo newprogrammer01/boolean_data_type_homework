@@ -8,7 +8,7 @@ def main(a):
     """
     # Write your code here
     return a >=0>=a
-print(main(6))
+print(main(54))
 
 
 
