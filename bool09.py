@@ -6,7 +6,11 @@ def main(a):
         bool
     """
     # Write your code here
-    return a>0
+    a=True
+
+    return a
+
+
     
 
 
