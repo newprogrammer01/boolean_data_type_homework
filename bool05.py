@@ -9,3 +9,4 @@ def main(a):
     # Write your code here
     return a%2==1
     
+    
