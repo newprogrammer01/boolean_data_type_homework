@@ -5,6 +5,8 @@ x=9
 x1=sqrt(x)
 y=x%x1==0
 
+
+
 print(y)
 
 
