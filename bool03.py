@@ -1,6 +1,6 @@
 def main(b):
     return b>0
-    print(main(b==8))
+print(main(-8))
 
     
     
