@@ -1,6 +1,8 @@
-a=1
-b=3
-print(a==b)
+def main(a,b):
+    return a==b
+print(main(3,1))
+
+
 
 
 
