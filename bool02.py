@@ -1,6 +1,7 @@
-a=7
-b=1
-print(a==b)
+def main(a):
+    return a==7
+print(main(7))
+
 
 
 
