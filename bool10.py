@@ -1,13 +1,10 @@
-
-
 from math import sqrt
-x=9
-x1=sqrt(x)
-y=x%x1==0
+def main(a):
+    x=sqrt(a)
+    y=a//x
+    return x==y
+print(main(121))
 
-
-
-print(y)
 
 
 
